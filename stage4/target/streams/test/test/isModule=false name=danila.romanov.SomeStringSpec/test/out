@@ -1,0 +1,11 @@
+[info] SomeStringSpec:
+[info] map
+[info] - should work for asdf and upper
+[info] flatMap
+[info] - should work for T and SomeString(tolowercase)
+[info] filter
+[info] - should work for T and T.contains(T[-2:])
+[info] filter
+[info] - should work for T and T.contains(not T)
+[info] getOrElse
+[info] - should fucking work come on why should I write this

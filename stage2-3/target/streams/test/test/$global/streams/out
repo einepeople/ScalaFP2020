@@ -1,0 +1,10 @@
+[debug] Running TaskDef(danila.romanov.RationalSpec, org.scalatest.tools.Framework$$anon$1@67f35b1d, false, [SuiteSelector])
+[debug] Running TaskDef(danila.romanov.UserBalanceSpec, org.scalatest.tools.Framework$$anon$1@67f35b1d, false, [SuiteSelector])
+[info] Run completed in 611 milliseconds.
+[info] Total number of tests run: 7
+[info] Suites: completed 2, aborted 0
+[info] Tests: succeeded 7, failed 0, canceled 0, ignored 0, pending 0
+[info] All tests passed.
+[debug] Passed tests:
+[debug] 	danila.romanov.RationalSpec
+[debug] 	danila.romanov.UserBalanceSpec

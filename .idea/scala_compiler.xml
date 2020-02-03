@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="Scala_lab1,Scala_lab1.root,root,scala_lab1,stage2-3,stage4" />
+  </component>
+</project>

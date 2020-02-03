@@ -1,0 +1,42 @@
+[debug] Invalidating C:\Users\droma\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.10.jar: class scala.Boolean now provided by C:\Users\droma\.sbt\boot\scala-2.12.7\lib\scala-library.jar
+[debug] 
+[debug] Initial source changes: 
+[debug] 	removed:Set(C:\Users\droma\IdeaProjects\Scala_lab1\src\main\scala\danila\romanov\Main.scala, C:\Users\droma\IdeaProjects\Scala_lab1\src\main\scala\danila\romanov\Rational.scala)
+[debug] 	added: Set()
+[debug] 	modified: Set()
+[debug] Invalidated products: Set()
+[debug] External API changes: API Changes: Set()
+[debug] Modified binary dependencies: Set(C:\Users\droma\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.10.jar)
+[debug] Initial directly invalidated classes: Set(danila.romanov.Main, danila.romanov.Rational)
+[debug] 
+[debug] Sources indirectly invalidated by:
+[debug] 	product: Set()
+[debug] 	binary dep: Set(C:\Users\droma\IdeaProjects\Scala_lab1\src\main\scala\danila\romanov\Main.scala, C:\Users\droma\IdeaProjects\Scala_lab1\src\main\scala\danila\romanov\Rational.scala)
+[debug] 	external source: Set()
+[debug] All initially invalidated classes: Set(danila.romanov.Main, danila.romanov.Rational)
+[debug] All initially invalidated sources:Set(C:\Users\droma\IdeaProjects\Scala_lab1\src\main\scala\danila\romanov\Main.scala, C:\Users\droma\IdeaProjects\Scala_lab1\src\main\scala\danila\romanov\Rational.scala)
+[debug] Recompiling all 0 sources: invalidated sources (2) exceeded 50.0% of all sources
+[debug] Invalidating (transitively) by inheritance from danila.romanov.Main...
+[debug] Initial set of included nodes: Set(danila.romanov.Main)
+[debug] Invalidated by transitive inheritance dependency: Set(danila.romanov.Main)
+[debug] Change NamesChange(danila.romanov.Main,ModifiedNames(changes = UsedName(eq,[Default]), UsedName(asInstanceOf,[Default]), UsedName(clone,[Default]), UsedName(delayedInit,[Default]), UsedName(finalize,[Default]), UsedName(ne,[Default]), UsedName(main,[Default]), UsedName(notify,[Default]), UsedName(equals,[Default]), UsedName(synchronized,[Default]), UsedName(hashCode,[Default]), UsedName(getClass,[Default]), UsedName(notifyAll,[Default]), UsedName(toString,[Default]), UsedName(##,[Default]), UsedName(wait,[Default]), UsedName($isInstanceOf,[Default]), UsedName(isInstanceOf,[Default]), UsedName(!=,[Default]), UsedName(==,[Default]), UsedName(args,[Default]), UsedName(Main,[Default]), UsedName(executionStart,[Default]), UsedName($asInstanceOf,[Default]), UsedName($init$,[Default]))) invalidates 1 classes due to The danila.romanov.Main has the following regular definitions changed:
+[debug] 	UsedName(eq,[Default]), UsedName(asInstanceOf,[Default]), UsedName(clone,[Default]), UsedName(delayedInit,[Default]), UsedName(finalize,[Default]), UsedName(ne,[Default]), UsedName(main,[Default]), UsedName(notify,[Default]), UsedName(equals,[Default]), UsedName(synchronized,[Default]), UsedName(hashCode,[Default]), UsedName(getClass,[Default]), UsedName(notifyAll,[Default]), UsedName(toString,[Default]), UsedName(##,[Default]), UsedName(wait,[Default]), UsedName($isInstanceOf,[Default]), UsedName(isInstanceOf,[Default]), UsedName(!=,[Default]), UsedName(==,[Default]), UsedName(args,[Default]), UsedName(Main,[Default]), UsedName(executionStart,[Default]), UsedName($asInstanceOf,[Default]), UsedName($init$,[Default]).
+[debug] 	> by transitive inheritance: Set(danila.romanov.Main)
+[debug] 	> 
+[debug] 	> 
+[debug]         
+[debug] Invalidating (transitively) by inheritance from danila.romanov.Rational...
+[debug] Initial set of included nodes: Set(danila.romanov.Rational)
+[debug] Invalidated by transitive inheritance dependency: Set(danila.romanov.Rational)
+[debug] Change NamesChange(danila.romanov.Rational,ModifiedNames(changes = UsedName(eq,[Default]), UsedName(asInstanceOf,[Default]), UsedName(/,[Default]), UsedName(numer,[Default]), UsedName(clone,[Default]), UsedName(finalize,[Default]), UsedName(ne,[Default]), UsedName(apply,[Default]), UsedName(+,[Default]), UsedName(notify,[Default]), UsedName(equals,[Default]), UsedName(synchronized,[Default]), UsedName(*,[Default]), UsedName(hashCode,[Default]), UsedName(getClass,[Default]), UsedName(notifyAll,[Default]), UsedName(toString,[Default]), UsedName(##,[Default]), UsedName(wait,[Default]), UsedName(Rational,[Default]), UsedName($isInstanceOf,[Default]), UsedName(isInstanceOf,[Default]), UsedName(!=,[Default]), UsedName(-,[Default]), UsedName(==,[Default]), UsedName(denom,[Default]), UsedName($asInstanceOf,[Default]), UsedName(danila;romanov;Rational;init;,[Default]))) invalidates 1 classes due to The danila.romanov.Rational has the following regular definitions changed:
+[debug] 	UsedName(eq,[Default]), UsedName(asInstanceOf,[Default]), UsedName(/,[Default]), UsedName(numer,[Default]), UsedName(clone,[Default]), UsedName(finalize,[Default]), UsedName(ne,[Default]), UsedName(apply,[Default]), UsedName(+,[Default]), UsedName(notify,[Default]), UsedName(equals,[Default]), UsedName(synchronized,[Default]), UsedName(*,[Default]), UsedName(hashCode,[Default]), UsedName(getClass,[Default]), UsedName(notifyAll,[Default]), UsedName(toString,[Default]), UsedName(##,[Default]), UsedName(wait,[Default]), UsedName(Rational,[Default]), UsedName($isInstanceOf,[Default]), UsedName(isInstanceOf,[Default]), UsedName(!=,[Default]), UsedName(-,[Default]), UsedName(==,[Default]), UsedName(denom,[Default]), UsedName($asInstanceOf,[Default]), UsedName(danila;romanov;Rational;init;,[Default]).
+[debug] 	> by transitive inheritance: Set(danila.romanov.Rational)
+[debug] 	> 
+[debug] 	> 
+[debug]         
+[debug] New invalidations:
+[debug] 	Set()
+[debug] Initial set of included nodes: Set()
+[debug] Previously invalidated, but (transitively) depend on new invalidations:
+[debug] 	Set()
+[debug] All newly invalidated classes after taking into account (previously) recompiled classes:Set()

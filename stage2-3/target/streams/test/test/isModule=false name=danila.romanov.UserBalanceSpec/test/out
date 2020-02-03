@@ -1,0 +1,6 @@
+[info] UserBalanceSpec:
+[info] +
+[info] - should work for 1,1,1 and 5,6,7
+[info] -
+[info] - should work for 2,3,4 and 1,2,3
+[info] unary -

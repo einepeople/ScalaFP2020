@@ -1,0 +1,9 @@
+[info] RationalSpec:
+[info] +
+[info] - should be something-something
+[info] ==
+[info] - should be correct for 2/1 and 4/2
+[info] *
+[info] - should be correct for 2/3 / 3/5 = 2/5
+[info] unapply
+[info] - should be correct for unapply(Rational(4,2)) == 2,1
